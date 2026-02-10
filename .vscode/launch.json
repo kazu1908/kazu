@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Open JCB THE CLASS page",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/open_jcb_page.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
